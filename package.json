@@ -38,7 +38,7 @@
     "svgo": "4.0.1"
   },
   "devDependencies": {
-    "@dnbhq/markdownlint-config": "0.2.7",
+    "@dnbhq/markdownlint-config": "2.0.0",
     "@dnbhq/tsconfig": "0.1.6",
     "@release-it/conventional-changelog": "11.0.1",
     "@types/node": "25.9.2",
